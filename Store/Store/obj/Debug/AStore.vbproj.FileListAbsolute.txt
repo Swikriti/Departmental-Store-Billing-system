@@ -1,0 +1,102 @@
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\bin\Debug\Store.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\bin\Debug\Store.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\bin\Debug\Store.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\bin\Debug\Store.xml
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af2.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af3.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.LoginForm1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.user.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.sell.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.print.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+D:\webmaker tools\project collection\st\New folder\Store\Store\bin\Debug\Store.exe.config
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.xml
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.pdb
+D:\webmaker tools\project collection\st\New folder\Store\Store\bin\Debug\Store.exe
+D:\webmaker tools\project collection\st\New folder\Store\Store\bin\Debug\Store.pdb
+D:\webmaker tools\project collection\st\New folder\Store\Store\bin\Debug\Store.xml
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.af1.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.af2.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.af3.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.LoginForm1.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.Resources.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.print.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.sell.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.user.resources
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache
+D:\webmaker tools\project collection\st\New folder\Store\Store\obj\Debug\Store.exe
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe.config
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.exe
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.xml
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.pdb
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.pdb
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.xml
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af1.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af2.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af3.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.LoginForm1.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.Resources.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.print.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.sell.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.user.resources
+D:\webmaker tools\project collection\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe.config
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.exe
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.xml
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.pdb
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.pdb
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.xml
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af1.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af2.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af3.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.LoginForm1.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.Resources.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.print.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.sell.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.user.resources
+D:\webmaker tools\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe.config
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.exe
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.xml
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.pdb
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.pdb
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.xml
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af1.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af2.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af3.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.loginform1.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.Resources.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.print.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.sell.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.user.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe.config
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.exe
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.xml
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.pdb
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.exe
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.pdb
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\Store.xml
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbprojResolveAssemblyReference.cache
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af1.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af2.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.af3.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.loginform1.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.Resources.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.print.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.sell.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\Store.user.resources
+C:\Users\GREAT GENIUS\Desktop\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\Debug\AStore.vbproj.GenerateResource.Cache

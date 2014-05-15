@@ -1,0 +1,13 @@
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\bin\Debug\Store.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\bin\Debug\Store.exe
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\bin\Debug\Store.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\bin\Debug\Store.xml
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.exe
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.xml
+c:\users\acer\documents\visual studio 2012\Projects\Store\Store\obj\Debug\Store.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.LoginForm1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af2.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Store\Store\obj\Debug\Store.af3.resources

@@ -1,0 +1,11 @@
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\bin\Debug\ConsoleApplication.exe.config
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.csprojResolveAssemblyReference.cache
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.af1.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.af2.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.af3.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.LoginForm1.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.My_Project.Resources.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.print.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.sell.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.user.resources
+D:\webmaker tools\updated departmentalt\updated departmentalt\st\New folder\Store\Store\obj\x86\Debug\departmentalstore.csproj.GenerateResource.Cache

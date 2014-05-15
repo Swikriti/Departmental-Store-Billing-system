@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{EB580F52-8380-4A88-9643-AA32E399D383}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>departmentalstore</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="af1.Designer.vb" />
+    <Content Include="af1.vb" />
+    <Content Include="af2.Designer.vb" />
+    <Content Include="af2.vb" />
+    <Content Include="af3.Designer.vb" />
+    <Content Include="af3.vb" />
+    <Content Include="LoginForm1.Designer.vb" />
+    <Content Include="LoginForm1.vb" />
+    <Content Include="My Project\Application.Designer.vb" />
+    <Content Include="My Project\Application.myapp" />
+    <Content Include="My Project\AssemblyInfo.vb" />
+    <Content Include="My Project\Resources.Designer.vb" />
+    <Content Include="My Project\Settings.Designer.vb" />
+    <Content Include="print.Designer.vb" />
+    <Content Include="print.vb" />
+    <Content Include="Resources\0.png" />
+    <Content Include="Resources\0_filled.png" />
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\1_filled.png" />
+    <Content Include="Resources\2.png" />
+    <Content Include="Resources\2_filled.png" />
+    <Content Include="Resources\3.png" />
+    <Content Include="Resources\3_filled.png" />
+    <Content Include="Resources\4.png" />
+    <Content Include="Resources\4_filled.png" />
+    <Content Include="Resources\5.png" />
+    <Content Include="Resources\5_filled.png" />
+    <Content Include="Resources\6.png" />
+    <Content Include="Resources\6_filled.png" />
+    <Content Include="Resources\7.png" />
+    <Content Include="Resources\7_filled.png" />
+    <Content Include="Resources\8.png" />
+    <Content Include="Resources\8_filled.png" />
+    <Content Include="Resources\9.png" />
+    <Content Include="Resources\9_filled.png" />
+    <Content Include="Resources\add_list.png" />
+    <Content Include="Resources\black_view.png" />
+    <Content Include="Resources\checkmark.png" />
+    <Content Include="Resources\coins.png" />
+    <Content Include="Resources\dashboard.png" />
+    <Content Include="Resources\delete.png" />
+    <Content Include="Resources\delete1.png" />
+    <Content Include="Resources\edit.png" />
+    <Content Include="Resources\error.png" />
+    <Content Include="Resources\Exit.png" />
+    <Content Include="Resources\file.png" />
+    <Content Include="Resources\folder.png" />
+    <Content Include="Resources\group.png" />
+    <Content Include="Resources\login.png" />
+    <Content Include="Resources\logout.png" />
+    <Content Include="Resources\newspaper.png" />
+    <Content Include="Resources\opera_glasses.png" />
+    <Content Include="Resources\print.png" />
+    <Content Include="Resources\private.png" />
+    <Content Include="Resources\public.png" />
+    <Content Include="Resources\save_as.png" />
+    <Content Include="Resources\save_as1.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\settings.png" />
+    <Content Include="Resources\shop_cart.png" />
+    <Content Include="Resources\thumbs_up.png" />
+    <Content Include="sell.Designer.vb" />
+    <Content Include="sell.vb" />
+    <Content Include="user.Designer.vb" />
+    <Content Include="user.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="af1.resx" />
+    <EmbeddedResource Include="af2.resx" />
+    <EmbeddedResource Include="af3.resx" />
+    <EmbeddedResource Include="LoginForm1.resx" />
+    <EmbeddedResource Include="My Project\Resources.resx" />
+    <EmbeddedResource Include="print.resx" />
+    <EmbeddedResource Include="sell.resx" />
+    <EmbeddedResource Include="user.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
